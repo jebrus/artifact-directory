@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Mitigating Regional Bias in Music Recommendation Systems
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+In pursuit of popularity and chart success, global music artists frequently adapt their music to conform to Western industry standards, which possess the most cultural and economic influence. As the industry shifts from traditional physical sales to digital streaming services, algorithmic bias in music recommendation systems has become increasingly prevalent. This bias occurs when the algorithms tasked to recommend songs to users inadvertently favor specific genres or styles of music. Given the nascent state of research on regional bias, our objective was to build a recommendation system designed to preserve cultural uniqueness and diversity in the global music industry by recommending artists from underrepresented countries while accommodating to user taste via bias mitigation.
